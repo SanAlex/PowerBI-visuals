@@ -1,4 +1,11 @@
-# Installing Typings for d3
+# Installing Types for d3 [TypeScript 2.0+]
+Typings has been deprecated. Use @types instead.
+```
+npm install --global @types/d3
+```
+For more details visit [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) repo.
+
+# Installing Typings for d3 [TypeScript 1.0]
 Installing typings will give you access to d3 types so you can utilize typescript types.
 See [commit](https://github.com/Microsoft/PowerBI-visuals-sampleBarChart/commit/2bb0f64718864a27e7d4b9c5b1d35d267bba6202) for what was added at this step.
 
